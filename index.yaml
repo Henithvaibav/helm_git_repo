@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepodemo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-16T23:04:19.07293002+05:30"
+    description: This helm chart is for git repo demo
+    digest: 58c7b5b8f036ea4c9f9eaa7f4577504386d416db2af479c711eab00500194cd8
+    name: gitrepodemo
+    type: application
+    urls:
+    - gitrepodemo-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-16T23:04:19.071272935+05:30"
